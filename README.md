@@ -16,7 +16,6 @@
   <a href="#project-overview">Overview</a> •
   <a href="#business-objectives">Objectives</a> •
   <a href="#analysis-structure--insights">Analysis</a> •
-  <a href="#sample-visualizations">Visuals</a> •
   <a href="#business-impact">Impact</a>
 </p>
 
