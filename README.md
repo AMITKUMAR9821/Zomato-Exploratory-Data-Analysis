@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png" alt="Zomato Logo" width="120" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas%20%26%20NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib%20%26%20Seaborn-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 <h1 align="center">🍽️ Zomato Exploratory Data Analysis (EDA)</h1>
@@ -124,7 +120,6 @@ Each major analysis step follows a clear **What it shows → Insight → Busines
 
 </details>
 
-
 ---
 
 ## 📈 Business Impact
@@ -143,4 +138,4 @@ Each major analysis step follows a clear **What it shows → Insight → Busines
 * Data Visualization & Insight Generation
 * Business-Oriented Analytical Thinking
 
-
+---
