@@ -124,18 +124,6 @@ Each major analysis step follows a clear **What it shows → Insight → Busines
 
 </details>
 
----
-
-## 🖼️ Sample Visualizations
-
-<p><b>👉 Click images to view full size (after uploading to GitHub)</b></p>
-
-```text
-visuals/
- ├── Ratings_Distribution.png
- ├── Cost_Analysis.png
- ├── Cuisine_Popularity.png
-```
 
 ---
 
